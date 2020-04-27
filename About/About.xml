@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Mantis - Blood and stains src</name>
+	<author>Gouda quiche</author>
+	<url>https://github.com/goudaQuiche</url>
+	<supportedVersions>
+			<li>1.1</li>
+	</supportedVersions>
+	<packageId>goudaquiche.LtfMantisBloodAndStains.src</packageId>
+	
+	<modDependencies>
+      <li>
+        <packageId>goudaquiche.LtfMantisRace</packageId>
+        <displayName>Mantis race</displayName>
+        <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2025343753</steamWorkshopUrl>
+      </li>
+	  <li>
+        <packageId>goudaquiche.BloodAndStains</packageId>
+        <displayName>Blood and stains</displayName>
+        <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2075683887</steamWorkshopUrl>
+      </li>
+    </modDependencies>
+	
+	<description>Adds puddles when a mantis is bleeding and footprints when a mantis stepped in filth.</description>
+
+</ModMetaData>

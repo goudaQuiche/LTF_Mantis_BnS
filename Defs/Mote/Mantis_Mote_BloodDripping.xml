@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<!-- green	 -->
+	<ThingDef ParentName="PuddleBase">
+		<defName>Mote_GreenBlood_A</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGA</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="PuddleBase">
+		<defName>Mote_GreenBlood_B</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGB</texPath>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="PuddleBase">
+		<defName>Mote_GreenBlood_C</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGC</texPath>
+		</graphicData>
+	</ThingDef>
+
+</Defs>
