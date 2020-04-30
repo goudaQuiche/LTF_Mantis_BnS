@@ -2,24 +2,53 @@
 <Defs>
 	
 	<!-- green	 -->
-	<ThingDef ParentName="PuddleBase">
-		<defName>Mote_GreenBlood_A</defName>
+<!-- red	 -->
+	<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GA</defName>
 		<graphicData>
 			<texPath>Mote/Puddle/Green/PuddleGA</texPath>
 		</graphicData>
 	</ThingDef>
 
-	<ThingDef ParentName="PuddleBase">
-		<defName>Mote_GreenBlood_B</defName>
+	<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GB</defName>
 		<graphicData>
 			<texPath>Mote/Puddle/Green/PuddleGB</texPath>
 		</graphicData>
 	</ThingDef>
 
-	<ThingDef ParentName="PuddleBase">
-		<defName>Mote_GreenBlood_C</defName>
+	<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GC</defName>
 		<graphicData>
 			<texPath>Mote/Puddle/Green/PuddleGC</texPath>
+		</graphicData>
+	</ThingDef>
+	
+		<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GD</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGD</texPath>
+		</graphicData>
+	</ThingDef>
+	
+	<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GE</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGE</texPath>
+		</graphicData>
+	</ThingDef>
+	
+	<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GF</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGF</texPath>
+		</graphicData>
+	</ThingDef>
+	
+	<ThingDef ParentName="BNS_PuddleBase">
+		<defName>BNS_Mote_Blood_GG</defName>
+		<graphicData>
+			<texPath>Mote/Puddle/Green/PuddleGG</texPath>
 		</graphicData>
 	</ThingDef>
 

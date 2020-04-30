@@ -4,6 +4,7 @@
 		<!-- mantis footprints -->	
 	<HediffDef ParentName="Hediff_HiddenBase">
 		<defName>Hediff_Mantis_Stain_Footprint</defName>
+		<!-- <defName>BNS_Hediff_Stain_Footprint_Mantis</defName> -->
 		<hediffClass>HediffWithComps</hediffClass>
 
 		<description>mantis footprints</description>
