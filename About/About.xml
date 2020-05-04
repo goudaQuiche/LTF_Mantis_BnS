@@ -11,12 +11,12 @@
 	<modDependencies>
       <li>
         <packageId>goudaquiche.LtfMantisRace.src</packageId>
-        <displayName>Mantis race</displayName>
+        <displayName>Mantis race src</displayName>
         <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2025343753</steamWorkshopUrl>
       </li>
 	  <li>
         <packageId>goudaquiche.BloodAndStains.src</packageId>
-        <displayName>Blood and stains</displayName>
+        <displayName>Blood and stains src</displayName>
         <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2075683887</steamWorkshopUrl>
       </li>
     </modDependencies>

@@ -25,11 +25,11 @@
 						<moteDef>Mote_Mantis_Red_Footprint</moteDef>
 					</li>
 					<li>
-						<defName>green_fluid</defName>
+						<defName>lightgreen_fluid</defName>
 						<triggerOnFilthDef>
 							<li>Filth_BloodInsect</li>
 						</triggerOnFilthDef>
-						<moteDef>Mote_Mantis_Green_Footprint</moteDef>
+						<moteDef>Mote_Mantis_LightGreen_Footprint</moteDef>
 					</li>
 					<li>
 						<defName>yellow_fluid</defName>
