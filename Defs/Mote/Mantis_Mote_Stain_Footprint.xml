@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	
-<!-- brown	 -->
+	<!-- brown	 -->
+	<!-- colorized -->
 	<ThingDef ParentName="FootprintBase">
 		<defName>Mote_Mantis_Brown_Footprint</defName>
 		<graphicData>
-			<texPath>Mote/Footprint/Mantis/Brown_Footprint</texPath>
+			<texPath>Mote/Footprint/Mantis/White_Footprint</texPath>
+			<color>(97,65,48,97)</color>
 		</graphicData>
 	</ThingDef>
 	
@@ -26,18 +28,22 @@
 	</ThingDef>
 
 	<!-- yellow	 -->
+	<!-- colorized -->
 	<ThingDef ParentName="FootprintBase">
 		<defName>Mote_Mantis_Yellow_Footprint</defName>
 		<graphicData>
-			<texPath>Mote/Footprint/Mantis/Yellow_Footprint</texPath>
+			<texPath>Mote/Footprint/Mantis/White_Footprint</texPath>
+			<color>(179, 185, 73, 180)</color>
 		</graphicData>
 	</ThingDef>
 
-	<!-- green	 -->
+	<!-- light green	 -->
+	<!-- colorized -->
 	<ThingDef ParentName="FootprintBase">
 		<defName>Mote_Mantis_LightGreen_Footprint</defName>
 		<graphicData>
-			<texPath>Mote/Footprint/Mantis/LightGreen_Footprint</texPath>
+			<texPath>Mote/Footprint/Mantis/White_Footprint</texPath>
+			<color>(132, 138, 114, 180)</color>
 		</graphicData>
 	</ThingDef>
 	

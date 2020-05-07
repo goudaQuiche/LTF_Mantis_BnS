@@ -47,6 +47,10 @@
 					</li>
 				</footprint>
 			
+				<randomScale>.5~.5</randomScale>
+				<rightFootRotation>15</rightFootRotation>
+				<leftFootRotation>-15</leftFootRotation>
+				
 				<!-- <debug>true</debug> -->
 			</li>
 		</comps>

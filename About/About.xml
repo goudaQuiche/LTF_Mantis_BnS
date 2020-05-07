@@ -20,6 +20,12 @@
         <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2075683887</steamWorkshopUrl>
       </li>
     </modDependencies>
+	<loadAfter>
+		<li>goudaquiche.LtfMantis</li>
+		<li>goudaquiche.LtfMantis.src</li>
+		<li>goudaquiche.BloodAndStains</li>
+		<li>goudaquiche.BloodAndStains.src</li>
+	</loadAfter>
 	
 	<description>Adds puddles when a mantis is bleeding and footprints when a mantis stepped in filth.</description>
 
